@@ -7,3 +7,4 @@ User Registration: Allows users to register by providing their details and captu
 Automated Attendance Marking: Automatically marks attendance when a recognized face is detected.
 Tkinter GUI: User-friendly interface for managing user registration, capturing images, and viewing attendance records.
 MySQL Integration: Stores user details and attendance records in a MySQL database for reliable data management and reporting.
+![Screenshot 2024-06-27 100955](https://github.com/user-attachments/assets/cba124cb-495b-4957-b0d9-8197f15b50b7)
