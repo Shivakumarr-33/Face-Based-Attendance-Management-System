@@ -548,9 +548,6 @@ class student:
                 self.fetch_data()
                 self.reset_data()
                 conn.close()
-
-
-
                 #================load predefined data on face frontals from opencv==========
                 face_classifier=cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
