@@ -67,28 +67,6 @@ pip install opencv-python pillow mysql-connector-python numpy
 python main.py
 ```
 
----
-
-## 📸 Screenshots
-
-### Login
-
-(Add Image)
-
-### Student Registration
-
-(Add Image)
-
-### Face Detection
-
-(Add Image)
-
-### Attendance
-
-(Add Image)
-
----
-
 ## 🔄 Workflow
 
 1. Register Student
