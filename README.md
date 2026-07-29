@@ -1,4 +1,123 @@
+# 🎯 Face-Based Attendance Management System
 
+A real-time Face Recognition Attendance Management System built using **Python, OpenCV, LBPH, Tkinter, and MySQL**. The application automates attendance tracking by recognizing registered users through facial recognition.
+
+---
+
+## 🚀 Features
+
+- 👤 Student Registration
+- 📷 Face Image Capture
+- 🤖 Face Recognition using LBPH
+- ✅ Automatic Attendance Marking
+- 🗄 MySQL Database Integration
+- 🖥 Tkinter GUI
+- 📊 Attendance Report Generation
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- OpenCV
+- Tkinter
+- MySQL
+- NumPy
+- Haar Cascade
+- LBPH Face Recognizer
+
+---
+
+## 📂 Project Structure
+
+```
+Face-Based-Attendance-Management-System/
+
+├── main.py
+├── login.py
+├── student.py
+├── developer.py
+├── train.py
+├── face_recognition.py
+├── attendance.py
+├── help.py
+├── classifier.xml
+├── haarcascade_frontalface_default.xml
+├── Data/
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/Shivakumarr-33/Face-Based-Attendance-Management-System.git
+
+cd Face-Based-Attendance-Management-System
+
+pip install opencv-python pillow mysql-connector-python numpy
+```
+
+---
+
+## ▶️ Run
+
+```bash
+python main.py
+```
+
+---
+
+## 📸 Screenshots
+
+### Login
+
+(Add Image)
+
+### Student Registration
+
+(Add Image)
+
+### Face Detection
+
+(Add Image)
+
+### Attendance
+
+(Add Image)
+
+---
+
+## 🔄 Workflow
+
+1. Register Student
+2. Capture Face Images
+3. Train LBPH Model
+4. Recognize Face
+5. Mark Attendance
+6. Store Attendance in MySQL
+
+---
+
+## 🎯 Future Improvements
+
+- FaceNet Integration
+- Deep Learning Recognition
+- Anti-Spoof Detection
+- Email Notifications
+- Cloud Database
+- Flask Web Version
+
+---
+
+## 👨‍💻 Author
+
+**Shivakumar Billapati**
+
+- Portfolio
+- LinkedIn
+- GitHub
 # Face-Based-Attendance-Management-System
 This project implements a Face-Based Attendance Management System using Python, OpenCV, Tkinter, and MySQL. The system allows for real-time facial recognition to mark attendance, providing a secure and automated solution for tracking attendance.
 
